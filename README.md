@@ -1,5 +1,5 @@
 # TripMate - Peer-to-Peer Travel Accessories Rental Platform
-
+## Full Detailed Report : [TripMate Detailed Report](https://docs.google.com/document/d/1sUlGkzISdr1ZI2f-gISLRIZr59YxfY2h2vutZMDtVcQ/edit?usp=sharing) 
 ## Overview
 TripMate is a rental-based platform designed to help travelers rent and lend travel accessories with ease. Instead of purchasing expensive travel gear, users can borrow items from others nearby, making trips more affordable and sustainable. By fostering a community-driven marketplace, TripMate promotes resource-sharing, cost savings, and environmental sustainability.
 
