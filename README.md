@@ -30,6 +30,7 @@ TripMate aims to:
 - **Payment Integration**: RazorPay
 - **UI/UX Design**: [Figma Prototype](https://www.figma.com/design/wZuAy8QAyxWdHOHRWvVUPL/TripMate?node-id=0-1&p=f)
 
+# All the Documentations and Reports : All User Flow Diagrams, System Architecture, and Project Reports are available in the documentation/ folder.
 ## Installation & Setup
 
 ### Prerequisites
@@ -40,6 +41,7 @@ Ensure you have the following installed:
 - Git
 - npm
 
+
 ### Steps to Run Locally
 
 1. **Clone the repository**:
@@ -49,7 +51,7 @@ Ensure you have the following installed:
    ```
 2. **Install dependencies**:
    ```bash
-   npm install  # or yarn install
+   npm install -i  
    ```
 3. **Set up environment variables**:
    - Create a `.env` file in the root directory.
@@ -57,7 +59,7 @@ Ensure you have the following installed:
 4. **Start the backend server**:
    ```bash
    cd backend
-   npm start  # or yarn start
+   npm start 
    ```
 5. **Start the frontend**:
    ```bash
@@ -72,6 +74,7 @@ Ensure you have the following installed:
 tripmate/
 │-- backend/  # Backend code (Node.js, Express)
 │-- frontend/  # Frontend code (React.js)
+│-- documentation/  # Reports, User Flows, System Architecture
 │-- database/  # Database schema & configuration
 │-- public/  # Static assets
 │-- .env  # Environment variables
