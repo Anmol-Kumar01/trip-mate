@@ -31,7 +31,7 @@ TripMate aims to:
 - **UI/UX Design**: [Figma Prototype](https://www.figma.com/design/wZuAy8QAyxWdHOHRWvVUPL/TripMate?node-id=0-1&p=f)
 
 # All the Documentations and Reports : 
-**All User Flow Diagrams, System Architecture, and Project Reports are available in the documentation/ folder.
+All User Flow Diagrams, System Architecture, and Project Reports are available in the documentation/ folder.
 ## Installation & Setup
 
 ### Prerequisites
